@@ -1,0 +1,16 @@
+PODS:
+  - SecondModule (0.1.0)
+
+DEPENDENCIES:
+  - SecondModule (from `../`)
+
+EXTERNAL SOURCES:
+  SecondModule:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SecondModule: c24afcf71b67ffc1963707107d1fc04b5d31c495
+
+PODFILE CHECKSUM: 57f14f3852e091b4832689fc70d8a7a0937bb761
+
+COCOAPODS: 1.9.1

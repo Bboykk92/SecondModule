@@ -1,0 +1,22 @@
+{
+  "name": "SecondModule",
+  "version": "0.1.0",
+  "summary": "A short description of SecondModule.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Kai/SecondModule",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Kai": "1491024705@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/Kai/SecondModule.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "SecondModule/Classes/**/*"
+}
